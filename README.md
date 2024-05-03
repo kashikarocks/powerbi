@@ -6,7 +6,7 @@ an IT capital of India. Most of the people here are dependent mainly on the rest
 important to study the demography of a location. What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of
 people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind of analysis can be done using the data,
 by studying different factors.
-
+Dataset is being taken from kaggle platform.
 
 Overview:
 Welcome to my Power BI report showcase on GitHub! This project focuses on analyzing the Zomato dataset to derive valuable insights and showcase data visualization skills.
