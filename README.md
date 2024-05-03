@@ -8,11 +8,14 @@ people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. These kind o
 by studying different factors.
 Dataset is being taken from kaggle platform.
 
+
+
 Overview:
 Welcome to my Power BI report showcase on GitHub! This project focuses on analyzing the Zomato dataset to derive valuable insights and showcase data visualization skills.
 Key Features:
 Dataset: Zomato.csv
-Analysis: Explored top 10 restaurants data, average rating, average bill amount,total votes.
-Insights: Filtered some restaurant types to get popular cuisines, top-rated restaurants, and key trends in the restaurant industry.
+Data Cleaning: Contains the code to clean the data after the data was scraped from zomato dataset.
+Analysis: Explored top 10 restaurants data, average rating, average bill amount,total votes,Location of the restaurant,Theme based restaurant or not.
+Insights: Filtered some restaurant types to get popular cuisines, top-rated restaurants, and key trends in the restaurant industry,Which locality of that city serves that cuisines with maximum number of restaurants.
 
 For more info plz check screenshots!!
